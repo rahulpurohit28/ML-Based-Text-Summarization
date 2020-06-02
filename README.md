@@ -20,7 +20,8 @@ In abstraction-based summarization, advanced deep learning techniques are applie
 
 ### Data Set Description 
 
-Data Set used : BBC News Summary (Kaggle Dataset) 
+Data Set used : BBC News Summary (Kaggle Dataset)  
+https://www.kaggle.com/pariza/bbc-news-summary
 
 Description : The dataset for extractive text summarization has five categories of news articles of BBC from 2004 to 2005 in the News Articles folder. For each article in each category, five summaries are provided in the Summaries folder. The first clause of the text of articles is the respective title.   
 
